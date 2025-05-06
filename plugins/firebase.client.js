@@ -5,7 +5,7 @@ export default defineNuxtPlugin(nuxtApp => {
     
   const firebaseConfig = {
 
-        apiKey: "AIzaSyCCHFGt_dc6ET_QaBFIL3YMN8lAbFgM4pc",
+        apiKey: ***********************************
         authDomain: "curso-vue-5eb4a.firebaseapp.com",
         projectId: "curso-vue-5eb4a",
         storageBucket: "curso-vue-5eb4a.appspot.com", 
