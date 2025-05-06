@@ -10,7 +10,7 @@ export default defineNuxtPlugin(nuxtApp => {
         projectId: "curso-vue-5eb4a",
         storageBucket: "curso-vue-5eb4a.appspot.com", 
         messagingSenderId: "264546873434",
-        appId: "1:264546873434:web:77d996e897952e81c76863",
+        appId: "1:264546******************3",
         measurementId: "G-35MD7SNWER"
       };
       
